@@ -1,0 +1,8 @@
+#npm
+node_modules
+packege-lock.json
+.log
+.gz
+
+#Benchmarking
+Benchmarking/graphs
