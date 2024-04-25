@@ -37,7 +37,6 @@ app.get("/ola/:nome/:empresa", function(req,res)    {
 
 })
 
-
 app.listen(4000, function(erro){
     if(erro){
         console.log("Ocorreu um erro!");
